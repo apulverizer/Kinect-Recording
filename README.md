@@ -1,6 +1,4 @@
-=============================================================================
-KinectRecording
-=============================================================================
+# KinectRecording
 
 KinectRecording is a package of programs which can be used to record and recognize
 hand/upperbody gestures from a Kinect. KinectRecording records the X,Y,Z positions 
